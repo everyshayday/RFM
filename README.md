@@ -1,4 +1,5 @@
 # RFM 분석 (카페 고객 분류 및 특징 분석)
+![image](https://github.com/everyshayday/RFM/assets/124337992/dafe401e-5cdc-4dd4-9dcb-052866fd91f4)
 
 ### 1. 프로젝트 개요
 
